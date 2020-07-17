@@ -1,2 +1,2 @@
-# ianunai.github.io
-Personal portfolio of Anunai Ishan
+# darpantanna.github.io
+Personal portfolio of Darpan Tanna
