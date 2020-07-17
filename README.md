@@ -1,2 +1,2 @@
-# darpantanna.github.io
+# darpantanna.com
 Personal portfolio of Darpan Tanna
