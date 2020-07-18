@@ -1926,6 +1926,7 @@
 		button.big,
 		.button.big {
 			font-size: 1.35em;
+			border: 2px solid white;
 		}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
