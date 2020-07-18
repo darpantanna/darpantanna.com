@@ -3117,7 +3117,8 @@
 			}
 
 			.wrapper.style2 a {
-				color: #999999;
+				color: #aed6f1;
+				text-decoration: underline; 
 			}
 
 				.wrapper.style2 a:hover {
